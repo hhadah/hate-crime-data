@@ -1,0 +1,74 @@
+File Manifest for ICPSR 22406
+
+United States Department of Justice. Federal Bureau of Investigation.
+Uniform Crime Reporting Program Data [United States]: Hate Crime Data, 2006
+[Record-Type Files]. ICPSR22406-v1. Ann Arbor, MI: Inter-university
+Consortium for Political and Social Research [distributor], 2008-11-05.
+http://doi.org/10.3886/ICPSR22406.v1
+
+
+Study-level Documentation
+
+    Filename                            Record  Record    Var.    Date        MD5
+                                        Length  Count     Count   Updated     Checksum
+
+    22406-descriptioncitation.pdf       -       -         -       2017-04-03  -
+
+    22406-related_literature.txt        -       -         -       daily       -
+
+    22406-manifest.txt                  -       -         -       daily       -
+
+    22406-Codebook.pdf                  -       -         -       2008-11-05  065edbd28afcf725a321480ac498ca7b
+
+
+DS0001 Batch Header File
+
+    Filename                            Record  Record    Var.    Date        MD5
+                                        Length  Count     Count   Updated     Checksum
+
+    22406-0001-Data.dta                 -       20,876    54      2008-11-05  47798ce864f8f2b213f014f46d32de77
+
+    22406-0001-Data.sav                 -       20,876    54      2008-11-05  f2832a203d882011c3547f6adb0ccc75
+
+    22406-0001-Data.stc                 -       20,876    54      2008-11-05  4af04d6e2c1a650e6f0eb6a0458fca30
+
+    22406-0001-Data.tsv                 -       20,876    54      2008-11-05  f9f1f8074237fffa59260a674b993391
+
+    22406-0001-Data.txt                 283     20,876    54      2008-11-05  2309dc5ccede316392546e1b243d5da4
+
+    22406-0001-Setup.dct                -       -         -       2008-11-05  18855abf939a77f7a7bd03d6dac639d9
+
+    22406-0001-Setup.do                 -       -         -       2008-11-05  b6e889824818b019dfcab5e1ba9912fa
+
+    22406-0001-Setup.sas                -       -         -       2008-11-05  d644192d77abc68d0a18117816ac5f83
+
+    22406-0001-Setup.sps                -       -         -       2008-11-05  1d18f38ab02e95c7f55e02f464102809
+
+    22406-0001-Supplemental_syntax.sas  -       -         -       2008-11-05  911a5bbe919d78c3ac81214426d2001c
+
+
+DS0002 Incident Record File
+
+    Filename                            Record  Record    Var.    Date        MD5
+                                        Length  Count     Count   Updated     Checksum
+
+    22406-0002-Data.dta                 -       7,726     179     2008-11-05  634423625d877234cd3e0eb95f3e95d8
+
+    22406-0002-Data.sav                 -       7,726     179     2008-11-05  855ba9ff53540c8c0f1d883949cb3a76
+
+    22406-0002-Data.stc                 -       7,726     179     2008-11-05  7818428530f6b6838b7d51490c9fe63f
+
+    22406-0002-Data.tsv                 -       7,726     179     2008-11-05  b0e86309ef0ce92b4f7cb6474d027972
+
+    22406-0002-Data.txt                 478     7,726     179     2008-11-05  8432f325d97b4332d78fb1d8191c38a3
+
+    22406-0002-Setup.dct                -       -         -       2008-11-05  74b490958cc0550bc697967f6524eb1e
+
+    22406-0002-Setup.do                 -       -         -       2008-11-05  988b7561370338da470065a4bcd53314
+
+    22406-0002-Setup.sas                -       -         -       2008-11-05  d8fbbeec9cfd4ffdfd1bae9cc41cc265
+
+    22406-0002-Setup.sps                -       -         -       2008-11-05  bcc950ca9937f5fc03f2af2eb2618788
+
+    22406-0002-Supplemental_syntax.sas  -       -         -       2008-11-05  13e9454234bb80964f27bec6297869a0
+

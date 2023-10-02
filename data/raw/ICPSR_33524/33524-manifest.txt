@@ -1,0 +1,70 @@
+File Manifest for ICPSR 33524
+
+United States Department of Justice. Federal Bureau of Investigation.
+Uniform Crime Reporting Program Data: Hate Crime Data, 2010 [Record-Type
+Files]. ICPSR33524-v1. Ann Arbor, MI: Inter-university Consortium for
+Political and Social Research [distributor], 2012-06-22.
+http://doi.org/10.3886/ICPSR33524.v1
+
+
+Study-level Documentation
+
+    Filename                            Record  Record    Var.    Date        MD5
+                                        Length  Count     Count   Updated     Checksum
+
+    33524-descriptioncitation.pdf       -       -         -       2017-04-03  -
+
+    33524-related_literature.txt        -       -         -       daily       -
+
+    33524-manifest.txt                  -       -         -       daily       -
+
+    33524-Codebook.pdf                  -       -         -       2012-06-22  357c6e81320c2eb0476f5770266c770d
+
+
+DS0001 Batch Header File
+
+    Filename                            Record  Record    Var.    Date        MD5
+                                        Length  Count     Count   Updated     Checksum
+
+    33524-0001-Data.dta                 -       21,788    54      2012-06-22  524111de606d3f0070f17bd996a8ef44
+
+    33524-0001-Data.sav                 -       21,788    54      2012-06-22  7093a5aa35be1872f757cff834fe4463
+
+    33524-0001-Data.stc                 -       21,788    54      2012-06-22  bf9c813c1e9b72e3509b2292914f82d1
+
+    33524-0001-Data.tsv                 -       21,788    54      2012-06-22  7d383363b1d59e9385427f7b8a80f41c
+
+    33524-0001-Data.txt                 283     21,788    54      2012-06-22  690f5a89d187218a9a5a7268d6255c4c
+
+    33524-0001-Setup.dct                -       -         -       2012-06-22  f41b6af7cbd3625f5e3a4334b0ccb49a
+
+    33524-0001-Setup.do                 -       -         -       2012-06-22  d29744eb5944af3cf368a7253241f1bd
+
+    33524-0001-Setup.sas                -       -         -       2012-06-22  7c01186065681bdbe6c87c9e4f8af2ee
+
+    33524-0001-Setup.sps                -       -         -       2012-06-22  12bd217d3bd9141c6c3468c4ff7c9adf
+
+
+DS0002 Incident Record File
+
+    Filename                            Record  Record    Var.    Date        MD5
+                                        Length  Count     Count   Updated     Checksum
+
+    33524-0002-Data.dta                 -       6,628     179     2012-06-22  2d7a103f34061e7c5348fd585037d27c
+
+    33524-0002-Data.sav                 -       6,628     179     2012-06-22  bd954a866f8b92cd091476bf2e39dc25
+
+    33524-0002-Data.stc                 -       6,628     179     2012-06-22  ba299320752b190299c94ab2c97ec0f7
+
+    33524-0002-Data.tsv                 -       6,628     179     2012-06-22  ecc6f762d62b7caf49de2af8dd33140c
+
+    33524-0002-Data.txt                 478     6,628     179     2012-06-22  2907943e644000d7969292c3ac4cb4f7
+
+    33524-0002-Setup.dct                -       -         -       2012-06-22  8b6c742181c9d06e050408ff7cf1f528
+
+    33524-0002-Setup.do                 -       -         -       2012-06-22  05b089078d3b5a1275cd30146516f41e
+
+    33524-0002-Setup.sas                -       -         -       2012-06-22  2903703ee775b255c33eb4b77ba14883
+
+    33524-0002-Setup.sps                -       -         -       2012-06-22  6e195d53b25d527b26248f0a4400dcde
+

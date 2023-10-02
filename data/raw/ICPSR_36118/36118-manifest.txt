@@ -1,0 +1,74 @@
+File Manifest for ICPSR 36118
+
+United States Department of Justice. Federal Bureau of Investigation.
+Uniform Crime Reporting Program Data: Hate Crime Data, 2013 [Record-Type
+Files]. ICPSR36118-v1. Ann Arbor, MI: Inter-university Consortium for
+Political and Social Research [distributor], 2015-11-13.
+http://doi.org/10.3886/ICPSR36118.v1
+
+
+Study-level Documentation
+
+    Filename                            Record  Record    Var.    Date        MD5
+                                        Length  Count     Count   Updated     Checksum
+
+    36118-descriptioncitation.pdf       -       -         -       2017-04-03  -
+
+    36118-related_literature.txt        -       -         -       daily       -
+
+    36118-manifest.txt                  -       -         -       daily       -
+
+    36118-Codebook.pdf                  -       -         -       2015-11-13  4b45a6cbae7d3c2cb6313b497b265809
+
+
+DS0001 Batch Header File
+
+    Filename                            Record  Record    Var.    Date        MD5
+                                        Length  Count     Count   Updated     Checksum
+
+    36118-0001-Data.dta                 -       22,202    54      2015-11-13  3cf1ed470f11a09d8913a80a3457d225
+
+    36118-0001-Data.rda                 -       22,202    54      2015-11-13  49aea5852063ca8bd626d88f8327a82a
+
+    36118-0001-Data.sav                 -       22,202    54      2015-11-13  acfe3241ce1c68ec6b43a0fa894d6cfa
+
+    36118-0001-Data.stc                 -       22,202    54      2015-11-13  b3d4cc19d4af2a30d9866e8687881ff6
+
+    36118-0001-Data.tsv                 -       22,202    54      2015-11-13  e1a12591d1d6427e49fdc193be3c9510
+
+    36118-0001-Data.txt                 283     22,202    54      2015-11-13  609599a583466404250cfed903027a83
+
+    36118-0001-Setup.dct                -       -         -       2015-11-13  81b707be66acc2d5f45b19cc1b0df5f6
+
+    36118-0001-Setup.do                 -       -         -       2015-11-13  630fd2998bf3b9cebba41625e14119fc
+
+    36118-0001-Setup.sas                -       -         -       2015-11-13  fd34ab06271e928502981df67640a320
+
+    36118-0001-Setup.sps                -       -         -       2015-11-13  b09c5e627eb3ba25bdecd1d75233af6e
+
+
+DS0002 Incident Record File
+
+    Filename                            Record  Record    Var.    Date        MD5
+                                        Length  Count     Count   Updated     Checksum
+
+    36118-0002-Data.dta                 -       5,914     179     2015-11-13  d3c65c791b95a102c2568344810d6f6f
+
+    36118-0002-Data.rda                 -       5,914     179     2015-11-13  1198d1f4ead30909aec0516f87959101
+
+    36118-0002-Data.sav                 -       5,914     179     2015-11-13  e30ce9db5990c0e24a7b3dae0cdeb6aa
+
+    36118-0002-Data.stc                 -       5,914     179     2015-11-13  91f2c09a2de36c2a9a85352272226ac6
+
+    36118-0002-Data.tsv                 -       5,914     179     2015-11-13  e29204da5eafad5894f2b96d0d5946d5
+
+    36118-0002-Data.txt                 478     5,914     179     2015-11-13  e65cfd309b6067bc90685efaf07e8f26
+
+    36118-0002-Setup.dct                -       -         -       2015-11-13  153b2c416c78fd2d7b03e6d7c6663eb6
+
+    36118-0002-Setup.do                 -       -         -       2015-11-13  af734b0933310bdb984d032ac516ea4c
+
+    36118-0002-Setup.sas                -       -         -       2015-11-13  a0b1937405ae04f2761baa163636c051
+
+    36118-0002-Setup.sps                -       -         -       2015-11-13  4b4c998230498b3b7fe1d869ff8c7bb3
+

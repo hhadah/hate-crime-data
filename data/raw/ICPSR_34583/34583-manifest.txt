@@ -1,0 +1,74 @@
+File Manifest for ICPSR 34583
+
+United States Department of Justice. Federal Bureau of Investigation.
+Uniform Crime Reporting Program Data: Hate Crime Data, 2011 [Record-Type
+Files]. ICPSR34583-v1. Ann Arbor, MI: Inter-university Consortium for
+Political and Social Research [distributor], 2013-07-17.
+http://doi.org/10.3886/ICPSR34583.v1
+
+
+Study-level Documentation
+
+    Filename                            Record  Record    Var.    Date        MD5
+                                        Length  Count     Count   Updated     Checksum
+
+    34583-descriptioncitation.pdf       -       -         -       2017-04-03  -
+
+    34583-related_literature.txt        -       -         -       daily       -
+
+    34583-manifest.txt                  -       -         -       daily       -
+
+    34583-Codebook.pdf                  -       -         -       2013-07-17  1bed8c874305a66e73411b50afdb2f81
+
+
+DS0001 Batch Header File
+
+    Filename                            Record  Record    Var.    Date        MD5
+                                        Length  Count     Count   Updated     Checksum
+
+    34583-0001-Data.dta                 -       21,897    54      2013-07-17  09ef6a325dd5faa7166d83d54936d427
+
+    34583-0001-Data.rda                 -       21,897    54      2013-07-17  8f65a055e1c0648ec856ee957bde9b81
+
+    34583-0001-Data.sav                 -       21,897    54      2013-07-17  bf6a00f40ef1b638533a758b7bda9c58
+
+    34583-0001-Data.stc                 -       21,897    54      2013-07-17  ced7851c56d920feae0ca42ba6b67129
+
+    34583-0001-Data.tsv                 -       21,897    54      2013-07-17  606587cf7c17841b2a0f495911fa7e47
+
+    34583-0001-Data.txt                 283     21,897    54      2013-07-17  650fa55289cd5d06a5cd64c62a92f2ae
+
+    34583-0001-Setup.dct                -       -         -       2013-07-17  1baf55f852b388563d58a2e974d62061
+
+    34583-0001-Setup.do                 -       -         -       2013-07-17  bf89c8ccde292abeedc84629fd24fee9
+
+    34583-0001-Setup.sas                -       -         -       2013-07-17  03f4e2432065acfdc5209f162b0ba1f1
+
+    34583-0001-Setup.sps                -       -         -       2013-07-17  a76cecb47727df1e3c7b79763fec70a3
+
+
+DS0002 Incident Record File
+
+    Filename                            Record  Record    Var.    Date        MD5
+                                        Length  Count     Count   Updated     Checksum
+
+    34583-0002-Data.dta                 -       6,222     179     2013-07-17  c34894660d62167addf1682ea01649f0
+
+    34583-0002-Data.rda                 -       6,222     179     2013-07-17  9bca1b1f257ffe4af0d8d734a4f67d39
+
+    34583-0002-Data.sav                 -       6,222     179     2013-07-17  72c287f1751a542f00b4077b18bcdd29
+
+    34583-0002-Data.stc                 -       6,222     179     2013-07-17  5faf6f5b1652fcd512f6706b4bd10f8c
+
+    34583-0002-Data.tsv                 -       6,222     179     2013-07-17  7a5d70af0ed5214300c31a7d1fa64485
+
+    34583-0002-Data.txt                 478     6,222     179     2013-07-17  4755f8e1db8529509d4cf16249cf4fb8
+
+    34583-0002-Setup.dct                -       -         -       2013-07-17  89a4d8e73ebcad373c6c927539b8fa29
+
+    34583-0002-Setup.do                 -       -         -       2013-07-17  08c32bf124a6d6a3c8ccfbc73dd902fa
+
+    34583-0002-Setup.sas                -       -         -       2013-07-17  fe67021ac4f7570946c7e0e078ced594
+
+    34583-0002-Setup.sps                -       -         -       2013-07-17  b1dca44782d4cab41ef685004fcb604d
+

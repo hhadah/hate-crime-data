@@ -1,0 +1,74 @@
+File Manifest for ICPSR 23800
+
+United States Department of Justice. Federal Bureau of Investigation.
+Uniform Crime Reporting Program Data [United States]: Hate Crime Data, 1999
+[Record-Type Files]. ICPSR23800-v1. Ann Arbor, MI: Inter-university
+Consortium for Political and Social Research [distributor], 2008-11-18.
+http://doi.org/10.3886/ICPSR23800.v1
+
+
+Study-level Documentation
+
+    Filename                            Record  Record    Var.    Date        MD5
+                                        Length  Count     Count   Updated     Checksum
+
+    23800-descriptioncitation.pdf       -       -         -       2017-04-03  -
+
+    23800-related_literature.txt        -       -         -       daily       -
+
+    23800-manifest.txt                  -       -         -       daily       -
+
+    23800-Codebook.pdf                  -       -         -       2008-11-18  5f23513638225f602293ca1f7126d995
+
+
+DS0001 Batch Header File
+
+    Filename                            Record  Record    Var.    Date        MD5
+                                        Length  Count     Count   Updated     Checksum
+
+    23800-0001-Data.dta                 -       18,753    54      2008-11-18  9d5ea620325455872ea3601bbdf85147
+
+    23800-0001-Data.sav                 -       18,753    54      2008-11-18  bd56f778f7e11baa505e03e42f206288
+
+    23800-0001-Data.stc                 -       18,753    54      2008-11-18  4ca371722a717ca2b7a013c3b1002eb5
+
+    23800-0001-Data.tsv                 -       18,753    54      2008-11-18  4adfde2648555cae8bc25db1894db4cb
+
+    23800-0001-Data.txt                 283     18,753    54      2008-11-18  55893af19dc7171d3434dbf55539d334
+
+    23800-0001-Setup.dct                -       -         -       2008-11-18  77b831a00f666c5c1438e17952d59ac9
+
+    23800-0001-Setup.do                 -       -         -       2008-11-18  f95e4692212b1aa6e98debfb36948ce2
+
+    23800-0001-Setup.sas                -       -         -       2008-11-18  fee46b79ad89257ba9e097f5b1b37b90
+
+    23800-0001-Setup.sps                -       -         -       2008-11-18  fc7dca664ca77a40be6dc7a80bcec234
+
+    23800-0001-Supplemental_syntax.sas  -       -         -       2008-11-18  c558ede535ba44ba37f5382c745f9c25
+
+
+DS0002 Incident Record File
+
+    Filename                            Record  Record    Var.    Date        MD5
+                                        Length  Count     Count   Updated     Checksum
+
+    23800-0002-Data.dta                 -       7,875     179     2008-11-18  00fdf0ac935b96be23dd2c40eb8ef36a
+
+    23800-0002-Data.sav                 -       7,875     179     2008-11-18  c5ce868c42ed26f547f9fdf0b1733b71
+
+    23800-0002-Data.stc                 -       7,875     179     2008-11-18  a264f7a8026946851dae30bd2fcef4f0
+
+    23800-0002-Data.tsv                 -       7,875     179     2008-11-18  a147c3f0f0829791e9b0293d03834fbc
+
+    23800-0002-Data.txt                 478     7,875     179     2008-11-18  d71ac867abe45726cca7e88a88979fbb
+
+    23800-0002-Setup.dct                -       -         -       2008-11-18  b46cb367b4a9e0813e8aab2647d08429
+
+    23800-0002-Setup.do                 -       -         -       2008-11-18  9522af957b45fa5034becec7d56087ee
+
+    23800-0002-Setup.sas                -       -         -       2008-11-18  c1a5ef3d7cbf2463171536ad80e89443
+
+    23800-0002-Setup.sps                -       -         -       2008-11-18  ab623a06ac1bf2cf6554138c21a26917
+
+    23800-0002-Supplemental_syntax.sas  -       -         -       2008-11-18  b33cce2999a8deb1679678986890ac0e
+

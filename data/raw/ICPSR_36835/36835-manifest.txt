@@ -1,0 +1,74 @@
+File Manifest for ICPSR 36835
+
+United States Department of Justice. Federal Bureau of Investigation.
+Uniform Crime Reporting Program Data: Hate Crime Data, 2015 [Record-Type
+Files]. ICPSR36835-v1. Ann Arbor, MI: Inter-university Consortium for
+Political and Social Research [distributor], 2017-07-28.
+http://doi.org/10.3886/ICPSR36835.v1
+
+
+Study-level Documentation
+
+    Filename                            Record  Record    Var.    Date        MD5
+                                        Length  Count     Count   Updated     Checksum
+
+    36835-descriptioncitation.pdf       -       -         -       2017-07-28  -
+
+    36835-related_literature.txt        -       -         -       daily       -
+
+    36835-manifest.txt                  -       -         -       daily       -
+
+    36835-Codebook.pdf                  -       -         -       2017-07-28  07f7a2565d7ea44157fb923b05322c45
+
+
+DS0001 Batch Header File
+
+    Filename                            Record  Record    Var.    Date        MD5
+                                        Length  Count     Count   Updated     Checksum
+
+    36835-0001-Data.dta                 -       22,524    54      2017-07-28  292ee7d835445f42df2e333224b5e4f0
+
+    36835-0001-Data.rda                 -       22,524    54      2017-07-28  9993c6f11b501eb904d39eb8e240af5f
+
+    36835-0001-Data.sav                 -       22,524    54      2017-07-28  4748f0898bf9fd4d23c1b41c4ab817ad
+
+    36835-0001-Data.stc                 -       22,524    54      2017-07-28  5934382172a13400228746e79aa356e8
+
+    36835-0001-Data.tsv                 -       22,524    54      2017-07-28  2fe91b30da575247e9b5c887024539d0
+
+    36835-0001-Data.txt                 283     22,524    54      2017-07-28  ae1c799f34c43ede0e84d7022302b143
+
+    36835-0001-Setup.dct                -       -         -       2017-07-28  6ab6ff8d308d74c905847cb5c8125ab1
+
+    36835-0001-Setup.do                 -       -         -       2017-07-28  9119f40f02f89d2bc5d1c81f47968c25
+
+    36835-0001-Setup.sas                -       -         -       2017-07-28  a64cab02e9970bea6c569a58d02e26f8
+
+    36835-0001-Setup.sps                -       -         -       2017-07-28  0ae5504bbd6db2baaa4a95e2df042c3d
+
+
+DS0002 Incident Record File
+
+    Filename                            Record  Record    Var.    Date        MD5
+                                        Length  Count     Count   Updated     Checksum
+
+    36835-0002-Data.dta                 -       5,850     179     2017-07-28  78bd1c7af8bf397560ea768197ea919f
+
+    36835-0002-Data.rda                 -       5,850     179     2017-07-28  9d89230b4e38facdd3724b003d46a3c2
+
+    36835-0002-Data.sav                 -       5,850     179     2017-07-28  2030ef9267c6f2c0720305d947237e68
+
+    36835-0002-Data.stc                 -       5,850     179     2017-07-28  63a126d7bc1d6e8e13a61f2f33002fb1
+
+    36835-0002-Data.tsv                 -       5,850     179     2017-07-28  4133d937c38b1c8a5527df31fa955f5b
+
+    36835-0002-Data.txt                 478     5,850     179     2017-07-28  b07cf07e1f31761aba62b76ae240d09e
+
+    36835-0002-Setup.dct                -       -         -       2017-07-28  3fa0139cdaf1cd2cafb05fd730323293
+
+    36835-0002-Setup.do                 -       -         -       2017-07-28  a65a2b5f891fb9871421282dc94cb5cf
+
+    36835-0002-Setup.sas                -       -         -       2017-07-28  88d512cb0560d47f4f836307ce13cb7d
+
+    36835-0002-Setup.sps                -       -         -       2017-07-28  6d55fc2a2632c61fdf8b9f01f40ad66e
+

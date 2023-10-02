@@ -1,0 +1,70 @@
+File Manifest for ICPSR 25107
+
+United States Department of Justice. Federal Bureau of Investigation.
+Uniform Crime Reporting Program Data [United States]: Hate Crime Data, 2007
+[Record-Type Files]. ICPSR25107-v1. Ann Arbor, MI: Inter-university
+Consortium for Political and Social Research [distributor], 2009-06-10.
+http://doi.org/10.3886/ICPSR25107.v1
+
+
+Study-level Documentation
+
+    Filename                            Record  Record    Var.    Date        MD5
+                                        Length  Count     Count   Updated     Checksum
+
+    25107-descriptioncitation.pdf       -       -         -       2017-04-03  -
+
+    25107-related_literature.txt        -       -         -       daily       -
+
+    25107-manifest.txt                  -       -         -       daily       -
+
+    25107-Codebook.pdf                  -       -         -       2009-06-10  0e6a3ed66d8ac699ac8b1eceef8dd9b6
+
+
+DS0001 Batch Header File
+
+    Filename                            Record  Record    Var.    Date        MD5
+                                        Length  Count     Count   Updated     Checksum
+
+    25107-0001-Data.dta                 -       21,106    54      2009-06-10  547c97cc773ec7134fe3f621c14a2fe2
+
+    25107-0001-Data.sav                 -       21,106    54      2009-06-10  9cfaac2d56e526bbbf21cffceb8875ee
+
+    25107-0001-Data.stc                 -       21,106    54      2009-06-10  0a9a1e268ab4eb52929b06d25abd95f3
+
+    25107-0001-Data.tsv                 -       21,106    54      2009-06-10  8d402c911b3bcc63f6eb166843679975
+
+    25107-0001-Data.txt                 283     21,106    54      2009-06-10  cb7af7b63879852405442ca6cbd9f8eb
+
+    25107-0001-Setup.dct                -       -         -       2009-06-10  2c6cf115117c4bf267351a5ccc81f0cb
+
+    25107-0001-Setup.do                 -       -         -       2009-06-10  fa94df2a3686f615c221abc6030ab97b
+
+    25107-0001-Setup.sas                -       -         -       2009-06-10  7a43efc3971b7ae6590fcc643fb45bb2
+
+    25107-0001-Setup.sps                -       -         -       2009-06-10  fe71ecf0fced5ec2af342e81dc940da3
+
+
+DS0002 Incident Record File
+
+    Filename                            Record  Record    Var.    Date        MD5
+                                        Length  Count     Count   Updated     Checksum
+
+    25107-0002-Data.dta                 -       7,624     179     2009-06-10  89092d4e51319010b30825d0f77af3bc
+
+    25107-0002-Data.sav                 -       7,624     179     2009-06-10  293e569372761935284e954fd8325ffe
+
+    25107-0002-Data.stc                 -       7,624     179     2009-06-10  69d27a1538e3b108e7026bf929569278
+
+    25107-0002-Data.tsv                 -       7,624     179     2009-06-10  ed1fce58905a6ead6511daf1beb1290a
+
+    25107-0002-Data.txt                 478     7,624     179     2009-06-10  4ead9af91e0bdfb56ed2366525f4d0bb
+
+    25107-0002-Setup.dct                -       -         -       2009-06-10  cf7cae8c5de08ae6b814b3880b9eca6d
+
+    25107-0002-Setup.do                 -       -         -       2009-06-10  9fa12ed2d0ae82e54f404d5f4013accb
+
+    25107-0002-Setup.sas                -       -         -       2009-06-10  7ca0b18e3a0746f3c41a4b8f1ca66502
+
+    25107-0002-Setup.sps                -       -         -       2009-06-10  353272c643cbdcc589e5512b41c37060
+

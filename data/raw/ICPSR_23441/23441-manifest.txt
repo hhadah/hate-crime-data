@@ -1,0 +1,74 @@
+File Manifest for ICPSR 23441
+
+United States Department of Justice. Federal Bureau of Investigation.
+Uniform Crime Reporting Program Data [United States]: Hate Crime Data, 2005
+[Record-Type Files]. ICPSR23441-v1. Ann Arbor, MI: Inter-university
+Consortium for Political and Social Research [distributor], 2008-11-05.
+http://doi.org/10.3886/ICPSR23441.v1
+
+
+Study-level Documentation
+
+    Filename                            Record  Record    Var.    Date        MD5
+                                        Length  Count     Count   Updated     Checksum
+
+    23441-descriptioncitation.pdf       -       -         -       2017-04-03  -
+
+    23441-related_literature.txt        -       -         -       daily       -
+
+    23441-manifest.txt                  -       -         -       daily       -
+
+    23441-Codebook.pdf                  -       -         -       2008-11-05  91a9fd635d7815d90ac6ac9e77d8186a
+
+
+DS0001 Batch Header File
+
+    Filename                            Record  Record    Var.    Date        MD5
+                                        Length  Count     Count   Updated     Checksum
+
+    23441-0001-Data.dta                 -       20,739    54      2008-11-05  78b17bf10bb7931e3c5e153db1740e7c
+
+    23441-0001-Data.sav                 -       20,739    54      2008-11-05  700640d534a49116f0d5a9f2ce6e3ce5
+
+    23441-0001-Data.stc                 -       20,739    54      2008-11-05  6104ee7a7d21598dd6a4e7805dc8a946
+
+    23441-0001-Data.tsv                 -       20,739    54      2008-11-05  caeaa5c649a34b518eef2d5321f52c45
+
+    23441-0001-Data.txt                 283     20,739    54      2008-11-05  9ceccd8da94fcdcfd1598fba6ff5ddce
+
+    23441-0001-Setup.dct                -       -         -       2008-11-05  6a91c28e7295adf89e3d9e181054b3ba
+
+    23441-0001-Setup.do                 -       -         -       2008-11-05  dd80611b5e29a4936b830d6e205f8d24
+
+    23441-0001-Setup.sas                -       -         -       2008-11-05  d27a3939e389d8cf33526ba2b018580f
+
+    23441-0001-Setup.sps                -       -         -       2008-11-05  169b04f2a8d416a6740f17cfd48c607b
+
+    23441-0001-Supplemental_syntax.sas  -       -         -       2008-11-05  6df564ac858bbc31f1f0da47c0b04ea7
+
+
+DS0002 Incident Record File
+
+    Filename                            Record  Record    Var.    Date        MD5
+                                        Length  Count     Count   Updated     Checksum
+
+    23441-0002-Data.dta                 -       7,163     179     2008-11-05  95018836602208ba10419860bfe42f9b
+
+    23441-0002-Data.sav                 -       7,163     179     2008-11-05  f59f8eca5fa4eb57e2e46f53219f15d1
+
+    23441-0002-Data.stc                 -       7,163     179     2008-11-05  1ebf63a92c2ed190a72fca4818342c76
+
+    23441-0002-Data.tsv                 -       7,163     179     2008-11-05  92627eb0a26267fc43e3a0a484919bc2
+
+    23441-0002-Data.txt                 478     7,163     179     2008-11-05  04912a8b0ee74064b8750bff21bafe92
+
+    23441-0002-Setup.dct                -       -         -       2008-11-05  724ba7579c5e1d34d761d012b5a8a224
+
+    23441-0002-Setup.do                 -       -         -       2008-11-05  11e5d332c9cce46ceb1b11fac119fe76
+
+    23441-0002-Setup.sas                -       -         -       2008-11-05  12859ddefa9baae1746be22e909fd6bf
+
+    23441-0002-Setup.sps                -       -         -       2008-11-05  131705be875016c807a5bf7b15323a21
+
+    23441-0002-Supplemental_syntax.sas  -       -         -       2008-11-05  8dac48cc08326117091acb9b7d0dd2d2
+

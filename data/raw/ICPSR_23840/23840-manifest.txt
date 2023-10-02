@@ -1,0 +1,74 @@
+File Manifest for ICPSR 23840
+
+United States Department of Justice. Federal Bureau of Investigation.
+Uniform Crime Reporting Program Data [United States]: Hate Crime Data, 1997
+[Record-Type Files]. ICPSR23840-v1. Ann Arbor, MI: Inter-university
+Consortium for Political and Social Research [distributor], 2008-11-18.
+http://doi.org/10.3886/ICPSR23840.v1
+
+
+Study-level Documentation
+
+    Filename                            Record  Record    Var.    Date        MD5
+                                        Length  Count     Count   Updated     Checksum
+
+    23840-descriptioncitation.pdf       -       -         -       2017-04-03  -
+
+    23840-related_literature.txt        -       -         -       daily       -
+
+    23840-manifest.txt                  -       -         -       daily       -
+
+    23840-Codebook.pdf                  -       -         -       2008-11-18  f0fea24bba63c76e91f12b26072821b2
+
+
+DS0001 Batch Header File
+
+    Filename                            Record  Record    Var.    Date        MD5
+                                        Length  Count     Count   Updated     Checksum
+
+    23840-0001-Data.dta                 -       18,954    54      2008-11-18  14204fcaaefe29db34aedfa661463a41
+
+    23840-0001-Data.sav                 -       18,954    54      2008-11-18  5d60367faddf3f240222873776cd6524
+
+    23840-0001-Data.stc                 -       18,954    54      2008-11-18  15baadfe4903909f0025107e3812f14f
+
+    23840-0001-Data.tsv                 -       18,954    54      2008-11-18  d8cbbda6ef40d701219fc2657199020c
+
+    23840-0001-Data.txt                 283     18,954    54      2008-11-18  f53b7ee5a1524dde4684f1c9c3847cf6
+
+    23840-0001-Setup.dct                -       -         -       2008-11-18  e2a2e6c909cd1a02342ba93634141b9c
+
+    23840-0001-Setup.do                 -       -         -       2008-11-18  d3a83bf862fd9889cf75cdb0bd3893d6
+
+    23840-0001-Setup.sas                -       -         -       2008-11-18  59e90a4a8d1c25707fd21a54d40f7b7b
+
+    23840-0001-Setup.sps                -       -         -       2008-11-18  e42a80ef569d62f02032662441c7edb8
+
+    23840-0001-Supplemental_syntax.sas  -       -         -       2008-11-18  2241297234ed565031f4017934b91dd6
+
+
+DS0002 Incident Record File
+
+    Filename                            Record  Record    Var.    Date        MD5
+                                        Length  Count     Count   Updated     Checksum
+
+    23840-0002-Data.dta                 -       8,048     179     2008-11-18  f3c5954e699203b104a52c0ae4cf9730
+
+    23840-0002-Data.sav                 -       8,048     179     2008-11-18  3a1d113eaec987fdf1140a8945cceec1
+
+    23840-0002-Data.stc                 -       8,048     179     2008-11-18  21c5e202c806f9a8a325c9217beddea9
+
+    23840-0002-Data.tsv                 -       8,048     179     2008-11-18  e14833684fa2501a83949e14efba433e
+
+    23840-0002-Data.txt                 478     8,048     179     2008-11-18  52829d5422a6a4bc5914e760e5eac1f3
+
+    23840-0002-Setup.dct                -       -         -       2008-11-18  f9a3c88f60842a9f67b1e232ae241d34
+
+    23840-0002-Setup.do                 -       -         -       2008-11-18  a77c62f9b9d7ce353b9096f5ff56ef8d
+
+    23840-0002-Setup.sas                -       -         -       2008-11-18  494e199d5cf7e637a7ecd1c65220538e
+
+    23840-0002-Setup.sps                -       -         -       2008-11-18  67a4756ea8d8a8f48b94912c6a878447
+
+    23840-0002-Supplemental_syntax.sas  -       -         -       2008-11-18  bbadfbb5d23b76744c796071fcf3f9ba
+

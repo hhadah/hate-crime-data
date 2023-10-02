@@ -1,0 +1,70 @@
+File Manifest for ICPSR 30764
+
+United States Department of Justice. Federal Bureau of Investigation.
+Uniform Crime Reporting Program Data: Hate Crime Data, 2009 [Record-Type
+Files]. ICPSR30764-v1. Ann Arbor, MI: Inter-university Consortium for
+Political and Social Research [distributor], 2011-09-30.
+http://doi.org/10.3886/ICPSR30764.v1
+
+
+Study-level Documentation
+
+    Filename                            Record  Record    Var.    Date        MD5
+                                        Length  Count     Count   Updated     Checksum
+
+    30764-descriptioncitation.pdf       -       -         -       2017-04-03  -
+
+    30764-related_literature.txt        -       -         -       daily       -
+
+    30764-manifest.txt                  -       -         -       daily       -
+
+    30764-Codebook.pdf                  -       -         -       2011-09-30  23e6d3c2852e139bdded2b9c8dce0063
+
+
+DS0001 Batch Header File
+
+    Filename                            Record  Record    Var.    Date        MD5
+                                        Length  Count     Count   Updated     Checksum
+
+    30764-0001-Data.dta                 -       21,740    54      2011-09-30  0f4a216980261ea6f76f9fbc59fdf241
+
+    30764-0001-Data.sav                 -       21,740    54      2011-09-30  3ff75e4f9415495b41f5feb0aba72caa
+
+    30764-0001-Data.stc                 -       21,740    54      2011-09-30  0140f05a720ee4045211d0545c690c08
+
+    30764-0001-Data.tsv                 -       21,740    54      2011-09-30  fbc0d19d4f275db2f7dd8f54f928cd52
+
+    30764-0001-Data.txt                 283     21,740    54      2011-09-30  05e615623857ee16a5b9d63cffbca1f1
+
+    30764-0001-Setup.dct                -       -         -       2011-09-30  d63ace21cdc35ca7976e15923b90719e
+
+    30764-0001-Setup.do                 -       -         -       2011-09-30  d9ac137797074aa82e5938d7ef5257f0
+
+    30764-0001-Setup.sas                -       -         -       2011-09-30  dc0ab4f85375c3256755926772d1eb21
+
+    30764-0001-Setup.sps                -       -         -       2011-09-30  601826c5c43f17802a3efddea91e1417
+
+
+DS0002 Incident Record File
+
+    Filename                            Record  Record    Var.    Date        MD5
+                                        Length  Count     Count   Updated     Checksum
+
+    30764-0002-Data.dta                 -       6,612     179     2011-09-30  79046b467ae461b9b81c2a536da2f5ee
+
+    30764-0002-Data.sav                 -       6,612     179     2011-09-30  a810f8c8740cf03ecf1e5517810abd01
+
+    30764-0002-Data.stc                 -       6,612     179     2011-09-30  24f33d76c626855536a96dfed04a8cb4
+
+    30764-0002-Data.tsv                 -       6,612     179     2011-09-30  8f3744508953febc4acc5a5a4160b420
+
+    30764-0002-Data.txt                 478     6,612     179     2011-09-30  191b98481d4659684c175827dec73102
+
+    30764-0002-Setup.dct                -       -         -       2011-09-30  7990dc4a2258f3ed5d3f4088b41f6061
+
+    30764-0002-Setup.do                 -       -         -       2011-09-30  ae61a12b7f533f6090e2ec9893e95e6e
+
+    30764-0002-Setup.sas                -       -         -       2011-09-30  516ebcdf42a2246874e06544eb17bdea
+
+    30764-0002-Setup.sps                -       -         -       2011-09-30  9b8c45e012fa19cd06730ac6c09e3eef
+

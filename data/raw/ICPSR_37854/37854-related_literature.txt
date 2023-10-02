@@ -1,0 +1,59 @@
+Bibliography
+Uniform Crime Reporting Program Data: Hate Crime Data (Record-Type Files),
+United States, 2017
+
+This bibliography includes published and unpublished works that are related 
+to ICPSR study 37854. It includes works that are based on primary
+or secondary analysis of the data, or which describe or critique those
+data or the collection methodology. 
+
+If you publish a work or know of other works that are based on these data,
+please send the complete citation and name of the ICPSR study used to:
+icpsr-biblio-notify@umich.edu 
+
+
+1. Bernini, Andrea; Facchini, Giovanni; Tabellini, Marco; Testa, Cecilia,
+"Black Empowerment and White Mobilization: The Effects of the Voting Rights
+Act." Department of Economics Discussion Paper Series Number 1011. Oxford,
+England: University of Oxford, Jun 2023.
+Full text PDF: https://ora.ox.ac.uk/objects/uuid:31142725-a0e6-48d4-86e7-b2212a65c52d/download_file?file_format=application%2Fpdf&safe_filename=Bernini_et_al_2023_Black_empowerment_and.pdf&type_of_work=Working+paper
+
+2. Cikara, Mina; Fouka, Vasiliki; Tabellini, Marco, "Hate crime towards
+minoritized groups increases as they increase in size-based rank." Nature
+Human Behaviour. in press 2022,. DOI: 10.1038/s41562-022-01416-5
+Full text PDF: https://ora.ox.ac.uk/objects/uuid:31142725-a0e6-48d4-86e7-b2212a65c52d/download_file?file_format=application%2Fpdf&safe_filename=Bernini_et_al_2023_Black_empowerment_and.pdf&type_of_work=Working+paper
+
+3. Du, Xinming, "Symptom or Culprit? Social Media, Air Pollution, and
+Violence." Nov 4, 2022..
+Full text PDF: https://www.sipa.columbia.edu/sites/default/files/2022-11/draft20_1104.pdf
+
+4. Guha, Induleka, "Empirical Essays on Bias-Motivated Behaviour."
+Dissertation, Purdue University, 2023.
+Abstract: https://hammer.purdue.edu/articles/thesis/Empirical_Essays_on_Bias-motivated_Behaviour/23724063
+
+5. Holder, Eaven, "The convergence of hate: An analysis of UCR-NCVS hate
+crime trends, 2003 to 2020." Crime and Delinquency. in press 2022,. DOI:
+10.1177/00111287221131001
+Abstract: https://hammer.purdue.edu/articles/thesis/Empirical_Essays_on_Bias-motivated_Behaviour/23724063
+
+6. Ratcliff, Shawn; Schwaidel, Philip, "The role of religious contexts on
+hate crimes, 2003-2017." Social Social Quarterly. Jul 2023, 104, (4), 535 -
+546. DOI: 10.1111/ssqu.13271
+Abstract: https://hammer.purdue.edu/articles/thesis/Empirical_Essays_on_Bias-motivated_Behaviour/23724063
+
+7. Susan G. Komen, "Closing the Breast Cancer Gap: A Roadmap to Save the
+Lives of Black Women in America, Dallas." Dallas, TX: Susan G. Komen, 2021.
+Full text PDF: https://www.komen.org/wp-content/uploads/AAHEI-Dallas-Landscape-Analysis-Report.pdf
+
+8. Susan G. Komen, "Closing the Breast Cancer Gap: A Roadmap to Save the
+Lives of Black Women in America, Los Angeles." Aug 4, 2021.
+Full text PDF: https://www.komen.org/wp-content/uploads/AAHEI-Los-Angeles-Landscape-Analysis-Report.pdf
+
+9. Susan G. Komen, "Closing the Breast Cancer Gap: A Roadmap to Save the
+Lives of Black Women in America, Tidewater, VA." Aug 4, 2021.
+Full text PDF: https://www.komen.org/wp-content/uploads/AAHEI-Los-Angeles-Landscape-Analysis-Report.pdf
+
+10. Susan G. Komen, "Closing the Breast Cancer Gap: A Roadmap to Save the
+Lives of Black Women in America, Washington, D.C.." Washington, DC: Susan
+G. Komen, 2021.
+Full text PDF: https://www.komen.org/wp-content/uploads/AAHEI-National-Capital-Area-Landscape-Analysis-Report.pdf

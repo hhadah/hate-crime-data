@@ -1,0 +1,74 @@
+File Manifest for ICPSR 23960
+
+United States Department of Justice. Federal Bureau of Investigation.
+Uniform Crime Reporting Program Data [United States]: Hate Crime Data, 1994
+[Record-Type Files]. ICPSR23960-v1. Ann Arbor, MI: Inter-university
+Consortium for Political and Social Research [distributor], 2008-12-23.
+http://doi.org/10.3886/ICPSR23960.v1
+
+
+Study-level Documentation
+
+    Filename                            Record  Record    Var.    Date        MD5
+                                        Length  Count     Count   Updated     Checksum
+
+    23960-descriptioncitation.pdf       -       -         -       2017-04-03  -
+
+    23960-related_literature.txt        -       -         -       daily       -
+
+    23960-manifest.txt                  -       -         -       daily       -
+
+    23960-Codebook.pdf                  -       -         -       2008-12-23  16bbe1edaaf36b97fd89df3ae8de969d
+
+
+DS0001 Batch Header File
+
+    Filename                            Record  Record    Var.    Date        MD5
+                                        Length  Count     Count   Updated     Checksum
+
+    23960-0001-Data.dta                 -       18,366    54      2008-12-23  53b73e45986751f6b4b59ac6ae05ac78
+
+    23960-0001-Data.sav                 -       18,366    54      2008-12-23  026c564987bd6a55f4e65d2eb4532fdc
+
+    23960-0001-Data.stc                 -       18,366    54      2008-12-23  0fa260109f312025be889dbf603189f2
+
+    23960-0001-Data.tsv                 -       18,366    54      2008-12-23  0d7f5b81139fc45f63824072c29a0df8
+
+    23960-0001-Data.txt                 283     18,366    54      2008-12-23  6f4fd217cabbbb49ce52ef49b8795ac7
+
+    23960-0001-Setup.dct                -       -         -       2008-12-23  34e6b96b8af6828c9cabe7e9f26cb5b3
+
+    23960-0001-Setup.do                 -       -         -       2008-12-23  9c492c6d0b7e44b8fa0cb8c865408db4
+
+    23960-0001-Setup.sas                -       -         -       2008-12-23  675a6fb5834d5657e7e3eba1721119de
+
+    23960-0001-Setup.sps                -       -         -       2008-12-23  48b3b37af1d3a17132f6bbeeaf57d325
+
+    23960-0001-Supplemental_syntax.sas  -       -         -       2008-12-23  48d7668490f2fe0b361470cafaa800bb
+
+
+DS0002 Incident Record File
+
+    Filename                            Record  Record    Var.    Date        MD5
+                                        Length  Count     Count   Updated     Checksum
+
+    23960-0002-Data.dta                 -       5,953     179     2008-12-23  57b7146ed7901685b615cf34ee963c91
+
+    23960-0002-Data.sav                 -       5,953     179     2008-12-23  4a5f53765c3432bdd8a35e0c0a6f371d
+
+    23960-0002-Data.stc                 -       5,953     179     2008-12-23  2fe98317c90e1093d38998e02943d894
+
+    23960-0002-Data.tsv                 -       5,953     179     2008-12-23  d9b0ea66c172d7d020beae0e7681ebf1
+
+    23960-0002-Data.txt                 478     5,953     179     2008-12-23  66aefe4b7d050c434d80f57cd1a02a0b
+
+    23960-0002-Setup.dct                -       -         -       2008-12-23  b049e5d4407715bb7f084209daef8773
+
+    23960-0002-Setup.do                 -       -         -       2008-12-23  2d430d6076dd371330ed132870a8d142
+
+    23960-0002-Setup.sas                -       -         -       2008-12-23  754680ce6e3abe37c11f20a339e70f76
+
+    23960-0002-Setup.sps                -       -         -       2008-12-23  d89ad41fceb2d5238c52c50a09ee576a
+
+    23960-0002-Supplemental_syntax.sas  -       -         -       2008-12-23  08e93bb42e9bda6aa0ffee2a719dbe28
+

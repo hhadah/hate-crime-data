@@ -1,0 +1,74 @@
+File Manifest for ICPSR 37854
+
+United States Department of Justice. Federal Bureau of Investigation.
+Uniform Crime Reporting Program Data: Hate Crime Data (Record-Type Files),
+United States, 2017. ICPSR37854-v1. Ann Arbor, MI: Inter-university
+Consortium for Political and Social Research [distributor], 2022-10-05.
+http://doi.org/10.3886/ICPSR37854.v1
+
+
+Study-level Documentation
+
+    Filename                            Record  Record    Var.    Date        MD5
+                                        Length  Count     Count   Updated     Checksum
+
+    37854-descriptioncitation.pdf       -       -         -       2022-10-05  -
+
+    37854-related_literature.txt        -       -         -       daily       -
+
+    37854-manifest.txt                  -       -         -       daily       -
+
+    37854-Codebook.pdf                  -       -         -       2022-10-05  30240db86a0197a343ff75547ce78912
+
+
+DS0001 Batch  Header File
+
+    Filename                            Record  Record    Var.    Date        MD5
+                                        Length  Count     Count   Updated     Checksum
+
+    37854-0001-Data.dta                 -       24,364    54      2022-10-05  587a33938b0ba346964677bef4d0d46c
+
+    37854-0001-Data.rda                 -       24,364    54      2022-10-05  69c3ea858e9728943673bc203ee93536
+
+    37854-0001-Data.sav                 -       24,364    54      2022-10-05  3e1ba36af6588b81323386c803a084da
+
+    37854-0001-Data.stc                 -       24,364    54      2022-10-05  92ee879dfb090f30689e26f345560764
+
+    37854-0001-Data.tsv                 -       24,364    54      2022-10-05  c4f4b8be3a41f16854593f8fe8fcaeaa
+
+    37854-0001-Data.txt                 283     24,364    54      2022-10-05  3b44f40c1bb83ad1793711ffdd353027
+
+    37854-0001-Setup.dct                -       -         -       2022-10-05  bb61fbe34d85c75a9c88ba006b7efa8a
+
+    37854-0001-Setup.do                 -       -         -       2022-10-05  0e60e0e743a78a01646728f68c8637c8
+
+    37854-0001-Setup.sas                -       -         -       2022-10-05  02dc7c2ca977283a17f30cea5f45642a
+
+    37854-0001-Setup.sps                -       -         -       2022-10-05  b21e022c2e713cf3572c1018f91595a4
+
+
+DS0002 Incident Record File
+
+    Filename                            Record  Record    Var.    Date        MD5
+                                        Length  Count     Count   Updated     Checksum
+
+    37854-0002-Data.dta                 -       7,317     179     2022-10-05  cfcaeda7cd5f3401e1ffd4566b017b65
+
+    37854-0002-Data.rda                 -       7,317     179     2022-10-05  082670b5f451528aa3f5403043742e67
+
+    37854-0002-Data.sav                 -       7,317     179     2022-10-05  d1e5f23fff68e35e2b7e7421d8cac0b7
+
+    37854-0002-Data.stc                 -       7,317     179     2022-10-05  349dd692fb68edfa592fdb93ee6b0e64
+
+    37854-0002-Data.tsv                 -       7,317     179     2022-10-05  d4f36ee2ed60ee6a4431b8bd7e3ae98d
+
+    37854-0002-Data.txt                 478     7,317     179     2022-10-05  a02589a7e7b7272a2912581d8105b53c
+
+    37854-0002-Setup.dct                -       -         -       2022-10-05  b1e8cea40a4bb3ae0410f369affa77c3
+
+    37854-0002-Setup.do                 -       -         -       2022-10-05  b60a5883947a02e35e977847e9666a84
+
+    37854-0002-Setup.sas                -       -         -       2022-10-05  90ef0da4c71402bc1b935c59e5020690
+
+    37854-0002-Setup.sps                -       -         -       2022-10-05  aad8f348e42eb587822a3f14a7a902fc
+

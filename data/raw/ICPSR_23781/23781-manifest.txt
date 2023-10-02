@@ -1,0 +1,74 @@
+File Manifest for ICPSR 23781
+
+United States Department of Justice. Federal Bureau of Investigation.
+Uniform Crime Reporting Program Data [United States]: Hate Crime Data, 2001
+[Record-Type Files]. ICPSR23781-v1. Ann Arbor, MI: Inter-university
+Consortium for Political and Social Research [distributor], 2008-11-14.
+http://doi.org/10.3886/ICPSR23781.v1
+
+
+Study-level Documentation
+
+    Filename                            Record  Record    Var.    Date        MD5
+                                        Length  Count     Count   Updated     Checksum
+
+    23781-descriptioncitation.pdf       -       -         -       2017-04-03  -
+
+    23781-related_literature.txt        -       -         -       daily       -
+
+    23781-manifest.txt                  -       -         -       daily       -
+
+    23781-Codebook.pdf                  -       -         -       2008-11-14  63384f802ac28bcf1e2667e84c22fbfe
+
+
+DS0001 Batch Header File
+
+    Filename                            Record  Record    Var.    Date        MD5
+                                        Length  Count     Count   Updated     Checksum
+
+    23781-0001-Data.dta                 -       19,822    54      2008-11-14  8c53a19e2c45e34bec3ad8eeba42eaa6
+
+    23781-0001-Data.sav                 -       19,822    54      2008-11-14  6c177c48dc2e6bdc298994613488d1e8
+
+    23781-0001-Data.stc                 -       19,822    54      2008-11-14  369ee4f5d302dae8843a0d8aa2350ddd
+
+    23781-0001-Data.tsv                 -       19,822    54      2008-11-14  c73aa59628fa375f367727e479ff8939
+
+    23781-0001-Data.txt                 283     19,822    54      2008-11-14  9be2a1cebcc2e8799859033db36e6971
+
+    23781-0001-Setup.dct                -       -         -       2008-11-14  67ac63ba8dfc1a0f67da0657ac9928fe
+
+    23781-0001-Setup.do                 -       -         -       2008-11-14  e95aa83ccc7e2b0d08516fa51f1c2a12
+
+    23781-0001-Setup.sas                -       -         -       2008-11-14  e91293b47792b221750d677469ad6562
+
+    23781-0001-Setup.sps                -       -         -       2008-11-14  f2e6cbc40b5165479f1dfc100ea98a53
+
+    23781-0001-Supplemental_syntax.sas  -       -         -       2008-11-14  a567f27efecdd4c62e8dce4ed707f31d
+
+
+DS0002 Incident Record File
+
+    Filename                            Record  Record    Var.    Date        MD5
+                                        Length  Count     Count   Updated     Checksum
+
+    23781-0002-Data.dta                 -       9,730     179     2008-11-14  089d261e15f1f4fcb1a6d6f88319adbb
+
+    23781-0002-Data.sav                 -       9,730     179     2008-11-14  9ce5e9a2c0a7ff052626192edafd0752
+
+    23781-0002-Data.stc                 -       9,730     179     2008-11-14  48c349a8e5e5ed1238ebab020f42ea68
+
+    23781-0002-Data.tsv                 -       9,730     179     2008-11-14  71ca7b36e0deef804c856da9e6b3c9af
+
+    23781-0002-Data.txt                 478     9,730     179     2008-11-14  b2b037cdfcfed61b8a58b473c8fcd536
+
+    23781-0002-Setup.dct                -       -         -       2008-11-14  6404b7d1131230d13a54fa2669b0702d
+
+    23781-0002-Setup.do                 -       -         -       2008-11-14  df5361714ae970b93cc1b81d90b6c198
+
+    23781-0002-Setup.sas                -       -         -       2008-11-14  a30bd6935da465e5653e19875b2978f4
+
+    23781-0002-Setup.sps                -       -         -       2008-11-14  69903542e988ea3a87c022b28dbe7339
+
+    23781-0002-Supplemental_syntax.sas  -       -         -       2008-11-14  5642258596e12bb79908efc33951b82f
+

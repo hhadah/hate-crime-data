@@ -1,0 +1,80 @@
+File Manifest for ICPSR 37060
+
+United States. Federal Bureau of Investigation. Uniform Crime Reporting
+Program Data: Hate Crime Data (Record-Type Files), United States, 2016 .
+ICPSR37060-v2. Ann Arbor, MI: Inter-university Consortium for Political and
+Social Research [distributor], 2018-06-21.
+http://doi.org/10.3886/ICPSR37060.v2
+
+Details on the version history can be found below the file listings.
+
+
+Study-level Documentation
+
+    Filename                            Record  Record    Var.    Date        MD5
+                                        Length  Count     Count   Updated     Checksum
+
+    37060-descriptioncitation.pdf       -       -         -       2018-06-21  -
+
+    37060-related_literature.txt        -       -         -       daily       -
+
+    37060-manifest.txt                  -       -         -       daily       -
+
+    37060-Codebook.pdf                  -       -         -       2018-06-21  85fcf8d93fc221bb8be20cfefa536f21
+
+
+DS0001 Batch Header File
+
+    Filename                            Record  Record    Var.    Date        MD5
+                                        Length  Count     Count   Updated     Checksum
+
+    37060-0001-Data.dta                 -       22,784    54      2018-06-21  b9d79398229ea9293d6495dbd4ca0105
+
+    37060-0001-Data.rda                 -       22,784    54      2018-06-21  cf702a84f541c8cd79f0f7bc1e27fee9
+
+    37060-0001-Data.sav                 -       22,784    54      2018-06-21  edbde7df630b8c69c3e2f2744dd3b477
+
+    37060-0001-Data.stc                 -       22,784    54      2018-06-21  2733b660c9f45e877f2328a8f72c18c4
+
+    37060-0001-Data.tsv                 -       22,784    54      2018-06-21  519aa60c4d3b09835f8e580eb3b0d0f8
+
+    37060-0001-Data.txt                 283     22,784    54      2018-06-21  c78f73176c9e555fadb561aeaa4d6793
+
+    37060-0001-Setup.dct                -       -         -       2018-06-21  006dd8994f9d0babe034de619f89457b
+
+    37060-0001-Setup.do                 -       -         -       2018-06-21  61207beef596f801b878d9c664771e16
+
+    37060-0001-Setup.sas                -       -         -       2018-06-21  9a4b4c373bfb907c533dc86abff4c002
+
+    37060-0001-Setup.sps                -       -         -       2018-06-21  942f4dd4dc8e0cda12238d24d38e121d
+
+
+DS0002 Incident Record File
+
+    Filename                            Record  Record    Var.    Date        MD5
+                                        Length  Count     Count   Updated     Checksum
+
+    37060-0002-Data.dta                 -       6,268     179     2018-06-21  ca1ff06a4e51bd5eeb24ffe8ba5ba07c
+
+    37060-0002-Data.rda                 -       6,268     179     2018-06-21  ac8727e32e056eb76668498c8176a7ed
+
+    37060-0002-Data.sav                 -       6,268     179     2018-06-21  3ba216fd0972eed7145b9f3b8c1e82a3
+
+    37060-0002-Data.stc                 -       6,268     179     2018-06-21  47dac4550769bbdfa46bf2655a7aba78
+
+    37060-0002-Data.tsv                 -       6,268     179     2018-06-21  c338a5212f2ca81e3d1ea88c18561f8d
+
+    37060-0002-Data.txt                 478     6,268     179     2018-06-21  b120f40f48bf992703ff6b8cbc7667b1
+
+    37060-0002-Setup.dct                -       -         -       2018-06-21  bf8e1ccf5b7265eb6e50051263e3586d
+
+    37060-0002-Setup.do                 -       -         -       2018-06-21  1f0f5f209898a679ef1411e60ad1b93f
+
+    37060-0002-Setup.sas                -       -         -       2018-06-21  4d86d901202877cf1d4db4bba9a07ebb
+
+    37060-0002-Setup.sps                -       -         -       2018-06-21  821fa4b93ba0f4bcb52a327d669241fe
+
+
+Version History
+
+2018-06-21 No changes were made to the data or documentation.

@@ -1,0 +1,74 @@
+File Manifest for ICPSR 23783
+
+United States Department of Justice. Federal Bureau of Investigation.
+Uniform Crime Reporting Program Data [United States]: Hate Crime Data, 2000
+[Record-Type Files]. ICPSR23783-v1. Ann Arbor, MI: Inter-university
+Consortium for Political and Social Research [distributor], 2008-11-14.
+http://doi.org/10.3886/ICPSR23783.v1
+
+
+Study-level Documentation
+
+    Filename                            Record  Record    Var.    Date        MD5
+                                        Length  Count     Count   Updated     Checksum
+
+    23783-descriptioncitation.pdf       -       -         -       2017-04-03  -
+
+    23783-related_literature.txt        -       -         -       daily       -
+
+    23783-manifest.txt                  -       -         -       daily       -
+
+    23783-Codebook.pdf                  -       -         -       2008-11-14  b952a2edd69c720fa8ab0955c93cbe8e
+
+
+DS0001 Batch Header File
+
+    Filename                            Record  Record    Var.    Date        MD5
+                                        Length  Count     Count   Updated     Checksum
+
+    23783-0001-Data.dta                 -       19,657    54      2008-11-14  5f83b0acfeca00e6cc69defb2811d03e
+
+    23783-0001-Data.sav                 -       19,657    54      2008-11-14  eee3626851906cb31c6dfc9e79b103ed
+
+    23783-0001-Data.stc                 -       19,657    54      2008-11-14  7709b26b585ed3f0733557ca2e227ae6
+
+    23783-0001-Data.tsv                 -       19,657    54      2008-11-14  a24ae9cd95db6b67815b36ed89c8b32b
+
+    23783-0001-Data.txt                 283     19,657    54      2008-11-14  2d6cab361e46d4b0959c05134ebed3cd
+
+    23783-0001-Setup.dct                -       -         -       2008-11-14  04d87ac715acfd405366d1eef57c3af0
+
+    23783-0001-Setup.do                 -       -         -       2008-11-14  ce18f6fb6ad636869b1b950554a03ca7
+
+    23783-0001-Setup.sas                -       -         -       2008-11-14  d9124cda10c7a6f49491b117f2803994
+
+    23783-0001-Setup.sps                -       -         -       2008-11-14  b43c8e849d3ecbc36684a044a0fcbade
+
+    23783-0001-Supplemental_syntax.sas  -       -         -       2008-11-14  34d9b05efddc0a814758c17d85630384
+
+
+DS0002 Incident Record File
+
+    Filename                            Record  Record    Var.    Date        MD5
+                                        Length  Count     Count   Updated     Checksum
+
+    23783-0002-Data.dta                 -       8,063     179     2008-11-14  492448a0990c7e54518450f6e23d9142
+
+    23783-0002-Data.sav                 -       8,063     179     2008-11-14  73c72226ec3d645324d42b132fcd6860
+
+    23783-0002-Data.stc                 -       8,063     179     2008-11-14  96f172444305dab6ee7bc6ee361e3903
+
+    23783-0002-Data.tsv                 -       8,063     179     2008-11-14  f6e4d34d8b040cae573b3ee9fd94e4df
+
+    23783-0002-Data.txt                 478     8,063     179     2008-11-14  e14365e6531023e524083184e8cac1ea
+
+    23783-0002-Setup.dct                -       -         -       2008-11-14  e15f4816aa071471b75c056fbc0b24bc
+
+    23783-0002-Setup.do                 -       -         -       2008-11-14  371702d3f8af3492786c1e8f89b4bc55
+
+    23783-0002-Setup.sas                -       -         -       2008-11-14  6fa776bc4d30e1250cdb090c85ba948e
+
+    23783-0002-Setup.sps                -       -         -       2008-11-14  333441337d7bd26f30b723a2f87d10d3
+
+    23783-0002-Supplemental_syntax.sas  -       -         -       2008-11-14  d01f68e87f9a6ede6e8345beb265091f
+

@@ -1,0 +1,74 @@
+File Manifest for ICPSR 37872
+
+United States Department of Justice. Federal Bureau of Investigation.
+Uniform Crime Reporting Program Data: Hate Crime Data (Record-Type Files),
+United States, 2018. ICPSR37872-v1. Ann Arbor, MI: Inter-university
+Consortium for Political and Social Research [distributor], 2022-10-05.
+http://doi.org/10.3886/ICPSR37872.v1
+
+
+Study-level Documentation
+
+    Filename                            Record  Record    Var.    Date        MD5
+                                        Length  Count     Count   Updated     Checksum
+
+    37872-descriptioncitation.pdf       -       -         -       2022-10-05  -
+
+    37872-related_literature.txt        -       -         -       daily       -
+
+    37872-manifest.txt                  -       -         -       daily       -
+
+    37872-Codebook.pdf                  -       -         -       2022-10-05  34194d7261db9ba05795d287c29facd8
+
+
+DS0001 Batch  Header File
+
+    Filename                            Record  Record    Var.    Date        MD5
+                                        Length  Count     Count   Updated     Checksum
+
+    37872-0001-Data.dta                 -       24,372    54      2022-10-05  93f53418cca7321831c28b553091e492
+
+    37872-0001-Data.rda                 -       24,372    54      2022-10-05  234e0060c79367a7b24f0de3ebedbcaa
+
+    37872-0001-Data.sav                 -       24,372    54      2022-10-05  5be393eef639dbeba5c970a877f93181
+
+    37872-0001-Data.stc                 -       24,372    54      2022-10-05  ba02eed1e902d37ba32c383c823ddcc4
+
+    37872-0001-Data.tsv                 -       24,372    54      2022-10-05  abeb0ac1034e1910b81877a3d5cc32d7
+
+    37872-0001-Data.txt                 283     24,372    54      2022-10-05  f7ad4f0a256608c8008c84fb383857eb
+
+    37872-0001-Setup.dct                -       -         -       2022-10-05  5b5a7038dbeadd8209cc68e12f2bd9b5
+
+    37872-0001-Setup.do                 -       -         -       2022-10-05  bfd12762e85001b579d9e1ba192359a4
+
+    37872-0001-Setup.sas                -       -         -       2022-10-05  814210af1f6ace51aeea254e75a6276c
+
+    37872-0001-Setup.sps                -       -         -       2022-10-05  7a99444383e9aae3be42eea04a47a9c1
+
+
+DS0002 Incident Record File
+
+    Filename                            Record  Record    Var.    Date        MD5
+                                        Length  Count     Count   Updated     Checksum
+
+    37872-0002-Data.dta                 -       7,215     179     2022-10-05  f5b7a52edf1a3a12a06b9acb9aa6bc8a
+
+    37872-0002-Data.rda                 -       7,215     179     2022-10-05  76fa73d9ddf89e62cf631f3b90471a78
+
+    37872-0002-Data.sav                 -       7,215     179     2022-10-05  764b9572d2112af2f749abda170b0eb6
+
+    37872-0002-Data.stc                 -       7,215     179     2022-10-05  6e853e713bb8cc90101f2047592d7457
+
+    37872-0002-Data.tsv                 -       7,215     179     2022-10-05  20123e4b81e012eaa25b18a734908d1d
+
+    37872-0002-Data.txt                 478     7,215     179     2022-10-05  890c284a61a3e20e79c16d15a8b8ec83
+
+    37872-0002-Setup.dct                -       -         -       2022-10-05  0cf23f5f4eabcb9013791e5cee4045b1
+
+    37872-0002-Setup.do                 -       -         -       2022-10-05  31ff99edd13addc5e88157d7c0cd019a
+
+    37872-0002-Setup.sas                -       -         -       2022-10-05  7853bfbd015f991dadeffc1fd3ae4d8f
+
+    37872-0002-Setup.sps                -       -         -       2022-10-05  d388fb4d83eb2a84ee75218d9938c00e
+

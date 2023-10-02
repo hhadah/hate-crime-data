@@ -1,0 +1,70 @@
+File Manifest for ICPSR 27645
+
+United States Department of Justice. Federal Bureau of Investigation.
+Uniform Crime Reporting Program Data [United States]: Hate Crime Data, 2008
+[Record-Type Files]. ICPSR27645-v1. Ann Arbor, MI: Inter-university
+Consortium for Political and Social Research [distributor], 2010-06-21.
+http://doi.org/10.3886/ICPSR27645.v1
+
+
+Study-level Documentation
+
+    Filename                            Record  Record    Var.    Date        MD5
+                                        Length  Count     Count   Updated     Checksum
+
+    27645-descriptioncitation.pdf       -       -         -       2017-04-03  -
+
+    27645-related_literature.txt        -       -         -       daily       -
+
+    27645-manifest.txt                  -       -         -       daily       -
+
+    27645-Codebook.pdf                  -       -         -       2010-06-21  74d1a9f69d5b77c7e4cd85be8f89ce3f
+
+
+DS0001 Batch Header File
+
+    Filename                            Record  Record    Var.    Date        MD5
+                                        Length  Count     Count   Updated     Checksum
+
+    27645-0001-Data.dta                 -       21,244    54      2010-06-21  3e9ef320b17a350251b9cf59d63e43fe
+
+    27645-0001-Data.sav                 -       21,244    54      2010-06-21  54692d7227b1c39685f79e4b48dc3dd0
+
+    27645-0001-Data.stc                 -       21,244    54      2010-06-21  6de835de7017841982ed3d45d67ccddc
+
+    27645-0001-Data.tsv                 -       21,244    54      2010-06-21  18d13d6673b0d1b5b39cfc73c8d53cb3
+
+    27645-0001-Data.txt                 283     21,244    54      2010-06-21  829bd38b0691a05cf15f10043ef0930d
+
+    27645-0001-Setup.dct                -       -         -       2010-06-21  7fe508790109a69744c2474c24cbbd6f
+
+    27645-0001-Setup.do                 -       -         -       2010-06-21  57df7729d990c46fb2a712e9c3c538ed
+
+    27645-0001-Setup.sas                -       -         -       2010-06-21  a5d440da2deb81679da8cd84d8fb3b6b
+
+    27645-0001-Setup.sps                -       -         -       2010-06-21  4b7461ca4e931b86fb34202e5fa324a7
+
+
+DS0002 Incident Record File
+
+    Filename                            Record  Record    Var.    Date        MD5
+                                        Length  Count     Count   Updated     Checksum
+
+    27645-0002-Data.dta                 -       7,783     179     2010-06-21  13ee444384220bf5279fb51882baf2bb
+
+    27645-0002-Data.sav                 -       7,783     179     2010-06-21  5e3d7492334b2d67652be163a99b7f10
+
+    27645-0002-Data.stc                 -       7,783     179     2010-06-21  f7a2b067267747a26fe4252c3344d8c6
+
+    27645-0002-Data.tsv                 -       7,783     179     2010-06-21  9d49b67706134e31a37d6c2244ae1f5c
+
+    27645-0002-Data.txt                 478     7,783     179     2010-06-21  3cd1189b3d8ce77fce2c8635697493fc
+
+    27645-0002-Setup.dct                -       -         -       2010-06-21  a53db04d477c4f32010bc597bf17b159
+
+    27645-0002-Setup.do                 -       -         -       2010-06-21  b14364708cc002ed92330d185025a14b
+
+    27645-0002-Setup.sas                -       -         -       2010-06-21  37cee006ebd3132cdafe89c21360a6d3
+
+    27645-0002-Setup.sps                -       -         -       2010-06-21  639384e02056d3861924150640d3153e
+

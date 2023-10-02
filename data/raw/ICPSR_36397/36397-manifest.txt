@@ -1,0 +1,74 @@
+File Manifest for ICPSR 36397
+
+United States Department of Justice. Federal Bureau of Investigation.
+Uniform Crime Reporting Program Data: Hate Crime Data, 2014 [Record-Type
+Files] . ICPSR36397-v1. Ann Arbor, MI: Inter-university Consortium for
+Political and Social Research [distributor], 2016-03-17.
+http://doi.org/10.3886/ICPSR36397.v1
+
+
+Study-level Documentation
+
+    Filename                            Record  Record    Var.    Date        MD5
+                                        Length  Count     Count   Updated     Checksum
+
+    36397-descriptioncitation.pdf       -       -         -       2017-04-03  -
+
+    36397-related_literature.txt        -       -         -       daily       -
+
+    36397-manifest.txt                  -       -         -       daily       -
+
+    36397-Codebook.pdf                  -       -         -       2016-03-17  ecb82e2bc3bf9aaad7ce4a993d1dfa75
+
+
+DS0001 Batch Header File
+
+    Filename                            Record  Record    Var.    Date        MD5
+                                        Length  Count     Count   Updated     Checksum
+
+    36397-0001-Data.dta                 -       22,332    54      2016-03-17  bbd54d255a33fee472ff56afdaf84f75
+
+    36397-0001-Data.rda                 -       22,332    54      2016-03-17  b096a66a7cfedab527cfff9c6cafb452
+
+    36397-0001-Data.sav                 -       22,332    54      2016-03-17  98b520201896a9104a11dcee25de9d2d
+
+    36397-0001-Data.stc                 -       22,332    54      2016-03-17  b6051471b7ba1ad9a723e5b5ea6d2497
+
+    36397-0001-Data.tsv                 -       22,332    54      2016-03-17  47fbaa5d4082af67e483ce48e05b52c4
+
+    36397-0001-Data.txt                 283     22,332    54      2016-03-17  f81253c16694b4775e89317ddfb010bb
+
+    36397-0001-Setup.dct                -       -         -       2016-03-17  e07940a442c8b00baad3a0d3e505fdce
+
+    36397-0001-Setup.do                 -       -         -       2016-03-17  89816f8cb2a1c676d41548c7ed9ab0d9
+
+    36397-0001-Setup.sas                -       -         -       2016-03-17  93b11de2bf4b3b19ca842d0c3449ecea
+
+    36397-0001-Setup.sps                -       -         -       2016-03-17  db5121d5ed9d280852a5bbadef7bb482
+
+
+DS0002 Incident Record File
+
+    Filename                            Record  Record    Var.    Date        MD5
+                                        Length  Count     Count   Updated     Checksum
+
+    36397-0002-Data.dta                 -       5,479     179     2016-03-17  23cd2b42f1a609697acc8bf40d186a20
+
+    36397-0002-Data.rda                 -       5,479     179     2016-03-17  7f4c250cf99147fbf7e0696f5d58c9d8
+
+    36397-0002-Data.sav                 -       5,479     179     2016-03-17  09cbda32b89e5f35d04445cf3fc06961
+
+    36397-0002-Data.stc                 -       5,479     179     2016-03-17  40d58f46185c5ff5283624d24078b994
+
+    36397-0002-Data.tsv                 -       5,479     179     2016-03-17  3027baee75b326a84d2f5040b46ed916
+
+    36397-0002-Data.txt                 478     5,479     179     2016-03-17  74df3785d9eca192bb16ae97eff8f6f9
+
+    36397-0002-Setup.dct                -       -         -       2016-03-17  50ff6d917a77ff08179082158b6e939f
+
+    36397-0002-Setup.do                 -       -         -       2016-03-17  fac0b6eba33e65597ba3b684c76938c7
+
+    36397-0002-Setup.sas                -       -         -       2016-03-17  f11f00da38d6cd45dfda464d1ad46734
+
+    36397-0002-Setup.sps                -       -         -       2016-03-17  8de769ebecc4e6529c77a1635c29197a
+

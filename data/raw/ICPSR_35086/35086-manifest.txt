@@ -1,0 +1,74 @@
+File Manifest for ICPSR 35086
+
+United States Department of Justice. Federal Bureau of Investigation.
+Uniform Crime Reporting Program Data: Hate Crime Data, 2012 [Record-Type
+Files]. ICPSR35086-v1. Ann Arbor, MI: Inter-university Consortium for
+Political and Social Research [distributor], 2014-05-16.
+http://doi.org/10.3886/ICPSR35086.v1
+
+
+Study-level Documentation
+
+    Filename                            Record  Record    Var.    Date        MD5
+                                        Length  Count     Count   Updated     Checksum
+
+    35086-descriptioncitation.pdf       -       -         -       2017-04-03  -
+
+    35086-related_literature.txt        -       -         -       daily       -
+
+    35086-manifest.txt                  -       -         -       daily       -
+
+    35086-Codebook.pdf                  -       -         -       2014-05-16  6efdf83dc98929d0e523064500b6b5ba
+
+
+DS0001 Batch Header File
+
+    Filename                            Record  Record    Var.    Date        MD5
+                                        Length  Count     Count   Updated     Checksum
+
+    35086-0001-Data.dta                 -       22,201    54      2014-05-16  529f92982a2275de95c0f5baf5ff595a
+
+    35086-0001-Data.rda                 -       22,201    54      2014-05-16  82990b5856a43e37ba1f79943e6e6195
+
+    35086-0001-Data.sav                 -       22,201    54      2014-05-16  cca5c9f6ffb14d1077db689fc0b3331e
+
+    35086-0001-Data.stc                 -       22,201    54      2014-05-16  a76258493ab578e4837c1079306fa3b4
+
+    35086-0001-Data.tsv                 -       22,201    54      2014-05-16  8c64e12777317e5da5702563d3ee9439
+
+    35086-0001-Data.txt                 283     22,201    54      2014-05-16  18d3e5e8aa360975dc185ebd8d76355a
+
+    35086-0001-Setup.dct                -       -         -       2014-05-16  ea0d0910b6280b29e1b69c753e9c6330
+
+    35086-0001-Setup.do                 -       -         -       2014-05-16  43a6c6a1904a917f1cdb1b7f11924e68
+
+    35086-0001-Setup.sas                -       -         -       2014-05-16  9824855b87819e73f2338707be095b37
+
+    35086-0001-Setup.sps                -       -         -       2014-05-16  33e76b13c036d5d77f485fe309ba5fab
+
+
+DS0002 Incident Record File
+
+    Filename                            Record  Record    Var.    Date        MD5
+                                        Length  Count     Count   Updated     Checksum
+
+    35086-0002-Data.dta                 -       6,593     179     2014-05-16  0fa9ed4ae390e27198d06112964c1b6d
+
+    35086-0002-Data.rda                 -       6,593     179     2014-05-16  202187715b104c6a36f61bead041f346
+
+    35086-0002-Data.sav                 -       6,593     179     2014-05-16  d8cad195ce5348e2d337baa8d466e8d9
+
+    35086-0002-Data.stc                 -       6,593     179     2014-05-16  08cff5a6888965801263d326a8a40585
+
+    35086-0002-Data.tsv                 -       6,593     179     2014-05-16  98f3d4350d1e7194c04b1aba935aab4c
+
+    35086-0002-Data.txt                 478     6,593     179     2014-05-16  56a48f39e069fc7afec491e5e3398937
+
+    35086-0002-Setup.dct                -       -         -       2014-05-16  df69507d7c6e809a0f378b3eb974df50
+
+    35086-0002-Setup.do                 -       -         -       2014-05-16  6f6a822b5e168ac664279bf4d3ccc0d2
+
+    35086-0002-Setup.sas                -       -         -       2014-05-16  8f4ce3d78b86d758f98ed60c58b55425
+
+    35086-0002-Setup.sps                -       -         -       2014-05-16  7d4d049b26d4dea93609ae14d723e895
+
