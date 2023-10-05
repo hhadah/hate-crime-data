@@ -16,6 +16,7 @@ figures_wd <- paste0(git_mdir,"/output/figures")
 programs <- paste0(git_mdir,"/programs")
 thesis_tabs <- paste0(git_mdir,"/my_paper/tables")
 thesis_plots <- paste0(git_mdir,"/my_paper/figure")
+ACS_path <- "~/Dropbox/Research/My Research Data and Ideas/SuicideGun/Data/Raw/PopulationData/usa_00041.csv"
 
 ### run do files and scripts
 

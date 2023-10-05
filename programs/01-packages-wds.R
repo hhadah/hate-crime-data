@@ -55,17 +55,17 @@ theme_customs <- function() {
     theme(panel.grid.minor = element_blank(),
           panel.grid.major = element_blank(),
           plot.background = element_rect(fill = "white", color = NA),
-          # plot.title = element_text(face = "bold", size = rel(2)),
+          plot.title = element_text(face = "bold", size = rel(2)),
           axis.title = element_text(face = "bold"),
           strip.text = element_text(face = "bold"),
           strip.background = element_rect(
-          color="black", fill="white", size=1.5
+          color="black", fill="white", linewidth=1.5
           ),
-          legend.title = element_text(face = "bold", size = rel(1)),
+          legend.title = element_text(face = "bold", size = 18),
           axis.text.y  = element_text(size = 18),
-          axis.text.x  = element_text(size = 24),
-          axis.title.x = element_text(size = 28),
-          axis.title.y = element_text(size = 28),
+          axis.text.x  = element_text(size = 18),
+          axis.title.x = element_text(size = 18),
+          axis.title.y = element_text(size = 18),
           panel.grid.major.x = element_blank(),
           panel.grid.minor.x = element_blank(),
           axis.line = element_line(colour = "black"),

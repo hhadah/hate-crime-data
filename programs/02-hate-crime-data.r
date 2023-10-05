@@ -108,16 +108,17 @@ ucr_to_fips <- function(ucr_code) {
     )
     
     if (ucr_code %in% names(ucr_to_fips_map)) {
-        return(ucr_to_fips_map[[as.character(ucr_code)]])
+        return(as.numeric(ucr_to_fips_map[[as.character(ucr_code)]]))
     } else {
-        return(NULL)
+        return(NA_real_) # returning NA_real_ to keep the datatype as numeric
     }
 }
 
 # Apply this function to a dataframe with column named `state`
 hate_crime_data$fstate <- sapply(hate_crime_data$state, ucr_to_fips)
 hate_crime_data <- hate_crime_data |>
-  filter(state < 55)
+  filter(state < 55 | !is.na(state))
+table(hate_crime_data$fstate)
 # save data
 write_csv(hate_crime_data, file.path(datasets, "hate_crime_data.csv"))
 write_csv(average_over_time, file.path(datasets, "average_over_time.csv"))
