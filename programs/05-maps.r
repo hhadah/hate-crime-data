@@ -39,3 +39,35 @@ for (year_map in seq(1992,2019)) {
 #   ggsave(path = thesis_plots, filename = paste0(year_map,"wait.png"))
   
 }
+
+
+# Asian hate Crimes per State
+
+hate_crime_data_state_asian <- hate_crime_data |>
+  filter(biasmo1 == 14) 
+
+# this "states" dataframe has the lat & long info needed for mapping.
+states <- st_as_sf(map('state', plot = TRUE, fill = TRUE)) |> 
+  rename(state = ID)
+states <- states |> 
+    mutate(fstate = fips(state))
+# join waiting period + lowercase names to df that has lat & long
+hate_crime_data_state_asian_sf <- inner_join(hate_crime_data_state_asian, 
+                                   states, 
+                                   by = "fstate") 
+hate_crime_data_state_asian_sf <- st_as_sf(hate_crime_data_state_asian_sf)
+
+# use for loop to plot all maps
+
+for (year_map in seq(1992,2019)) {
+  map <- ggplot() + geom_sf(data = hate_crime_data_state_asian_sf |> filter(year == year_map), 
+                            aes(fill = `hate_crimes_per_100000`), 
+                            color = "white")+
+    scale_fill_viridis_c(name = "Legend", option = "turbo") +
+    theme_customs_map() +
+    labs(title = paste0("Anti-Asian Hate Crimes per 100,000 in ", year_map))
+  map
+  ggsave(path = figures_wd, filename = paste0(year_map,"states_asian_hate_crimes.png"))
+#   ggsave(path = thesis_plots, filename = paste0(year_map,"wait.png"))
+  
+}
