@@ -80,6 +80,9 @@ ggsave(paste0(figures_wd,"/hate_crimes_byyearbyhatecrime.png"), width = 10, heig
 # ggsave(paste0(thesis_plots,"/hate_crimes_byyearbyhatecrime.png"), width = 10, height = 4, units = "in")
 
 ### total hate crimes
+US_hate_crime_data |> 
+  group_by(year) |> 
+  summarize(hate_crimes = sum(hate_crimes))
 US_total_hatecrime <- US_hate_crime_data |> 
   group_by(year) |> 
   summarize(hate_crimes_per_100000 = sum(hate_crimes_per_100000))
