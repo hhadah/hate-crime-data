@@ -73,7 +73,8 @@ p1 <- ggplot(US_hate_crime_data, aes(year, hate_crimes_per_100000)) +
            title = "Hate Crimes per 100,000: by Hate Crime",
            color = "Crime Type") +
       theme_customs() +
-      scale_color_manual(values = P56)
+      scale_color_manual(values = P56)+
+      scale_x_continuous(limits = c(1992, 2019), breaks = seq(1992, 2019, by = 3)) # This line adjusts the x-axis
 p1
 print(p1)
 ggsave(paste0(figures_wd,"/hate_crimes_byyearbyhatecrime.png"), width = 10, height = 4, units = "in")
@@ -94,6 +95,7 @@ p2 <- ggplot(US_total_hatecrime, aes(year, hate_crimes_per_100000)) +
            y = "Hate Crimes per 100,000",
            title = "Hate Crimes per 100,000 in the United States") +
         theme_customs() +
-        scale_color_manual(values = P56)
+        scale_color_manual(values = P56)+
+      scale_x_continuous(limits = c(1992, 2019), breaks = seq(1992, 2019, by = 3)) # This line adjusts the x-axis
 p2
 ggsave(paste0(figures_wd,"/hatecrimes_over_time.png"), width = 10, height = 4, units = "in")
